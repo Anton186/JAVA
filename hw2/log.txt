@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-31T15:07:34.870598800Z</date>
+  <millis>1675177654870</millis>
+  <nanos>598800</nanos>
+  <sequence>0</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+76 и 21 поменялись местами на индексе 2 и 3</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.895599100Z</date>
+  <millis>1675177654895</millis>
+  <nanos>599100</nanos>
+  <sequence>1</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+76 и 70 поменялись местами на индексе 3 и 4</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.896600200Z</date>
+  <millis>1675177654896</millis>
+  <nanos>600200</nanos>
+  <sequence>2</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+76 и 44 поменялись местами на индексе 4 и 5</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.897599200Z</date>
+  <millis>1675177654897</millis>
+  <nanos>599200</nanos>
+  <sequence>3</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+76 и 38 поменялись местами на индексе 5 и 6</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.898600Z</date>
+  <millis>1675177654898</millis>
+  <nanos>600000</nanos>
+  <sequence>4</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+86 и 24 поменялись местами на индексе 7 и 8</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.899602200Z</date>
+  <millis>1675177654899</millis>
+  <nanos>602200</nanos>
+  <sequence>5</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+86 и 15 поменялись местами на индексе 8 и 9</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.899602200Z</date>
+  <millis>1675177654899</millis>
+  <nanos>602200</nanos>
+  <sequence>6</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+58 и 21 поменялись местами на индексе 1 и 2</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.900599300Z</date>
+  <millis>1675177654900</millis>
+  <nanos>599300</nanos>
+  <sequence>7</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+70 и 44 поменялись местами на индексе 3 и 4</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.900599300Z</date>
+  <millis>1675177654900</millis>
+  <nanos>599300</nanos>
+  <sequence>8</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+70 и 38 поменялись местами на индексе 4 и 5</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.901599300Z</date>
+  <millis>1675177654901</millis>
+  <nanos>599300</nanos>
+  <sequence>9</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+76 и 24 поменялись местами на индексе 6 и 7</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.902599900Z</date>
+  <millis>1675177654902</millis>
+  <nanos>599900</nanos>
+  <sequence>10</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+76 и 15 поменялись местами на индексе 7 и 8</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.902599900Z</date>
+  <millis>1675177654902</millis>
+  <nanos>599900</nanos>
+  <sequence>11</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+26 и 21 поменялись местами на индексе 0 и 1</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.903599900Z</date>
+  <millis>1675177654903</millis>
+  <nanos>599900</nanos>
+  <sequence>12</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+58 и 44 поменялись местами на индексе 2 и 3</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.904599400Z</date>
+  <millis>1675177654904</millis>
+  <nanos>599400</nanos>
+  <sequence>13</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+58 и 38 поменялись местами на индексе 3 и 4</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.904599400Z</date>
+  <millis>1675177654904</millis>
+  <nanos>599400</nanos>
+  <sequence>14</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+70 и 24 поменялись местами на индексе 5 и 6</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.905599700Z</date>
+  <millis>1675177654905</millis>
+  <nanos>599700</nanos>
+  <sequence>15</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+70 и 15 поменялись местами на индексе 6 и 7</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.906599700Z</date>
+  <millis>1675177654906</millis>
+  <nanos>599700</nanos>
+  <sequence>16</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+44 и 38 поменялись местами на индексе 2 и 3</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.906599700Z</date>
+  <millis>1675177654906</millis>
+  <nanos>599700</nanos>
+  <sequence>17</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+58 и 24 поменялись местами на индексе 4 и 5</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.907600Z</date>
+  <millis>1675177654907</millis>
+  <nanos>600000</nanos>
+  <sequence>18</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+58 и 15 поменялись местами на индексе 5 и 6</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.907600Z</date>
+  <millis>1675177654907</millis>
+  <nanos>600000</nanos>
+  <sequence>19</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+44 и 24 поменялись местами на индексе 3 и 4</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.908600Z</date>
+  <millis>1675177654908</millis>
+  <nanos>600000</nanos>
+  <sequence>20</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+44 и 15 поменялись местами на индексе 4 и 5</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.908600Z</date>
+  <millis>1675177654908</millis>
+  <nanos>600000</nanos>
+  <sequence>21</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+38 и 24 поменялись местами на индексе 2 и 3</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.909599800Z</date>
+  <millis>1675177654909</millis>
+  <nanos>599800</nanos>
+  <sequence>22</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+38 и 15 поменялись местами на индексе 3 и 4</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.910602100Z</date>
+  <millis>1675177654910</millis>
+  <nanos>602100</nanos>
+  <sequence>23</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+26 и 24 поменялись местами на индексе 1 и 2</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.911601400Z</date>
+  <millis>1675177654911</millis>
+  <nanos>601400</nanos>
+  <sequence>24</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+26 и 15 поменялись местами на индексе 2 и 3</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.912601900Z</date>
+  <millis>1675177654912</millis>
+  <nanos>601900</nanos>
+  <sequence>25</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+24 и 15 поменялись местами на индексе 1 и 2</message>
+</record>
+<record>
+  <date>2023-01-31T15:07:34.913599200Z</date>
+  <millis>1675177654913</millis>
+  <nanos>599200</nanos>
+  <sequence>26</sequence>
+  <logger>hw2.hw_2</logger>
+  <level>WARNING</level>
+  <class>hw2.hw_2</class>
+  <method>bobleSort</method>
+  <thread>1</thread>
+  <message>
+21 и 15 поменялись местами на индексе 0 и 1</message>
+</record>
+</log>

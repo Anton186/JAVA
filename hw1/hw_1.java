@@ -8,7 +8,8 @@ public class hw_1 {
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите число: ");
         int number = scan.nextInt();
-        long res = 0;
+        scan.close  ();
+        int res = 0;
         res = number*(number+1)/2;
         System.out.println("Вычисление " + number + " треугольного числа, равно: " + res);
 
