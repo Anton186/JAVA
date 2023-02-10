@@ -1,0 +1,133 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_1",
+            "request": "launch",
+            "mainClass": "hw1.hw_1",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_1(1)",
+            "request": "launch",
+            "mainClass": "hw2.hw_1",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_2",
+            "request": "launch",
+            "mainClass": "hw2.hw_2",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_3",
+            "request": "launch",
+            "mainClass": "hw2.hw_3",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_1(2)",
+            "request": "launch",
+            "mainClass": "hw3.hw_1",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_2(1)",
+            "request": "launch",
+            "mainClass": "hw3.hw_2",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_3(1)",
+            "request": "launch",
+            "mainClass": "hw3.hw_3",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_1(3)",
+            "request": "launch",
+            "mainClass": "hw4.hw_1",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_2(2)",
+            "request": "launch",
+            "mainClass": "hw4.hw_2",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw_1(4)",
+            "request": "launch",
+            "mainClass": "hw5.hw_1",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch task1",
+            "request": "launch",
+            "mainClass": "seminar4.task1",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch task3",
+            "request": "launch",
+            "mainClass": "seminar4.task3",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch arabToRoman",
+            "request": "launch",
+            "mainClass": "seminar5.arabToRoman",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch maps",
+            "request": "launch",
+            "mainClass": "seminar5.maps",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch rekursia",
+            "request": "launch",
+            "mainClass": "seminar5.rekursia",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch task_2_1",
+            "request": "launch",
+            "mainClass": "seminar_2.task_2_1",
+            "projectName": "JAVA_2f37b8f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JAVA_2f37b8f7"
+        }
+    ]
+}
