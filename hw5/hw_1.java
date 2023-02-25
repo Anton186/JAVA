@@ -3,14 +3,11 @@ package hw5;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
 public class hw_1 {
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList<Integer>();
         Scanner scan = new Scanner(System.in);
         Map<String, ArrayList<Integer>> phoneBook = new HashMap<>();
         String fio = null;

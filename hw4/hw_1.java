@@ -7,7 +7,7 @@ import java.util.Random;
 
 public class hw_1 {
     public static void main(String[] args) {
-        List<Integer> list = new LinkedList();
+        List<Integer> list = new LinkedList<>();
         Random rand = new Random();
         int size = 10;
         for (int i = 0; i < size; i++) {
